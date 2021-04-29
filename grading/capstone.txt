@@ -1,0 +1,4 @@
+Errors:
+
+- Missing source zip
+- Missing timothy_bender_portfolio.pdf
