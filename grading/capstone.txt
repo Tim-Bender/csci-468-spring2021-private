@@ -1,4 +1,4 @@
 Errors:
 
 - Missing source zip
-- Missing Timothy_Bender_portfolio.pdf
+- Missing timothy_bender_portfolio.pdf
